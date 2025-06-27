@@ -1,6 +1,7 @@
 name: Hello DevOps
 
-on: [push]
+on:
+  push:
 
 jobs:
   hello:
